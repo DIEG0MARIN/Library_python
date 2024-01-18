@@ -20,3 +20,6 @@ def crear_libro(request):
 
 def editar(request):
     return render(request, 'libros/editar.html')
+
+#CONTINUAR EN MINUTO 1:50:00 RELIZAR EN GITHUB RESTO DE CODIFICACION
+#Y LUEGO TRAER DETALLES CON UN PULL
